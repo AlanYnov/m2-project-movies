@@ -37,10 +37,10 @@ To get started with the Events API, follow the instructions below:
 
 ## Features
 
-The Movies API offers the following key features:
+The Reservation API offers the following key features:
 
-- **Movies Management:** Create, retrieve, update, and delete movies.
-- **Files:** Upload and get files.
+- **Cinemas Management:** Create, retrieve, update, and delete cinema.
+- **Reservations Management:** Create, retrieve, update, and delete reservation.
 
 ## Technologies
 
@@ -84,17 +84,17 @@ The error logs will be shown in the following file: `/database/logs/error.log`.
 
 ### Manual Configuration
 
-In MySQL, create the `movies_db` database with the following command:
+In MySQL, create the `pathe_db` database with the following command:
 
 ```sql
-CREATE DATABASE movies_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE pathe_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
 
-Create a MySQL user named `movies_user` with a password of your choice. Grant all privileges to this user on the `movies_db` database.
+Create a MySQL user named `movies_user` with a password of your choice. Grant all privileges to this user on the `pathe_db` database.
 
 ```sql
 CREATE USER 'movies_user'@'localhost' IDENTIFIED BY 'your_password';
-GRANT ALL PRIVILEGES ON `movies_db`.* TO 'movies_user'@'localhost';
+GRANT ALL PRIVILEGES ON `pathe_db`.* TO 'movies_user'@'localhost';
 ```
 
 After creating the database and a user, copy and execute the following SQL commands found in `/database/sql`:
