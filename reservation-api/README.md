@@ -33,14 +33,27 @@ To get started with the Events API, follow the instructions below:
 
 5. **Start the Server:** Run `npm start` to start the API server. By default, it runs on port 3000, but you can configure the port in your `.env` file.
 
-6. **API Documentation:** Explore the API endpoints and their documentation using Swagger UI. The documentation is accessible at `/api-docs` when the API server is running.
-
 ## Features
 
 The Reservation API offers the following key features:
 
-- **Cinemas Management:** Create, retrieve, update, and delete cinema.
-- **Reservations Management:** Create, retrieve, update, and delete reservation.
+- **Cinema Management:** Create, retrieve, update, and delete cinema.
+- **Reservation Management:** Create, retrieve, update, and delete reservation.
+
+## API Endpoints
+
+### Cinema
+- `GET /api-reservation/cinema`: Lists all cinemas
+- `GET /api-reservation/cinema/{uid}`: Retrieves a cinema by its UID
+- `POST /api-reservation/cinema`: Creates a new cinema
+- `PUT /api-reservation/cinema/{uid}`: Updates a cinema
+- `DELETE /api-reservation/cinema/{uid}`: Deletes a cinema
+
+### Reservation
+- `POST /api-reservation/movie/{movieUID}/reservations`: Creates a reservation
+- `POST /api-reservation/reservations/{uid}/confirm`: Confirms a reservation
+- `GET /api-reservation/movie/{movieUid}/reservations`: Retrieves reservations for a movie
+- `GET /api-reservation/reservations/{uid}`: Retrieves a reservation
 
 ## Technologies
 
