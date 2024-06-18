@@ -1,0 +1,103 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1071 (42000) at line 1: La clé est trop longue. Longueur maximale: 1000
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1071 (42000) at line 1: La clé est trop longue. Longueur maximale: 1000
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1071 (42000) at line 1: La clé est trop longue. Longueur maximale: 1000
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1071 (42000) at line 1: La clé est trop longue. Longueur maximale: 1000
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1071 (42000) at line 1: La clé est trop longue. Longueur maximale: 1000
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 2: La table 'pathe_db.movies' n'existe pas
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1054 (42S22) at line 2: Champ 'title' inconnu dans field list
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1136 (21S01) at line 2: Column count doesn't match value count at row 9
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 2: La table 'pathe_db.movies' n'existe pas
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 2: La table 'pathe_db.movies' n'existe pas
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1063 (42000) at line 1: Mauvais paramètre de champ pour le champ 'uid'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1146 (42S02) at line 2: La table 'pathe_db.movies' n'existe pas
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1136 (21S01) at line 2: Column count doesn't match value count at row 9
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1064 (42000) at line 1: Erreur de syntaxe près de '+ INTERVAL 5 DAY,
+   `created_at` timestamp NOT NULL DEFAULT current_timestamp()' à la ligne 7
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1064 (42000) at line 1: Erreur de syntaxe près de '+ interval 1 day,
+   `created_at` timestamp NOT NULL DEFAULT current_timestamp()' à la ligne 7
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
