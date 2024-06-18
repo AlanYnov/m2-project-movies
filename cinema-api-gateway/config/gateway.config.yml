@@ -1,0 +1,61 @@
+http:
+  port: 5000
+admin:
+  port: 9876
+  host: localhost
+
+apiEndpoints:
+  reservation-api:
+    host: 'localhost'
+    paths: '/api-reservation/*'
+  user-api:
+    host: 'localhost'
+    paths: '/api-auth/*'
+
+  movies-api:
+    host: 'localhost'
+    paths: '/api-movie/*'
+
+serviceEndpoints:
+  reservation-service:
+    url: 'http://localhost:3000'
+  user-service:
+    url: 'http://localhost:3001'
+  movies-service:
+    url: 'http://localhost:3002'
+
+policies:
+  - basic-auth
+  - cors
+  - expression
+  - key-auth
+  - log
+  - oauth2
+  - proxy
+  - rate-limit
+
+pipelines:
+  reservation-pipeline:
+    apiEndpoints:
+      - reservation-api
+    policies:
+      - proxy:
+          - action:
+              serviceEndpoint: reservation-service
+              changeOrigin: true
+  user-pipeline:
+    apiEndpoints:
+      - user-api
+    policies:
+      - proxy:
+          - action:
+              serviceEndpoint: user-service
+              changeOrigin: true
+  movies-pipeline:
+    apiEndpoints:
+      - movies-api
+    policies:
+      - proxy:
+          - action:
+              serviceEndpoint: movies-service
+              changeOrigin: true
